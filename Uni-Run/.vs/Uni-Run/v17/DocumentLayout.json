@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\UNIT\\Uni-Run\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|c:\\users\\pc\\unit\\uni-run\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|C:\\Users\\PC\\UNIT\\Uni-Run\\assets\\scripts\\scrolling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scrolling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|C:\\Users\\PC\\UNIT\\Uni-Run\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|C:\\Users\\PC\\UNIT\\Uni-Run\\assets\\scripts\\backgroundloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|C:\\Users\\PC\\UNIT\\Uni-Run\\assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|C:\\Users\\PC\\UNIT\\Uni-Run\\assets\\scripts\\platformspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\assets\\scripts\\platformspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\assets\\scripts\\backgroundloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\github\\portfollio\\uni-run\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\assets\\scripts\\scrolling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scrolling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A61E8C4-D263-6424-8665-B66D9FD95A72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,54 +34,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PlatformSpawner.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\PlatformSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\PlatformSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformSpawner.cs",
-              "ToolTip": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\PlatformSpawner.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\PlatformSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlatformSpawner.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwC8AAAAIAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwBgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T12:04:27.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Platform.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\Platform.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\Platform.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Platform.cs",
-              "ToolTip": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\Platform.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\Platform.cs",
               "RelativeToolTip": "Assets\\Scripts\\Platform.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T11:24:11.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwDUAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T12:30:29.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T12:30:29.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BackgroundLoop.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\BackgroundLoop.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\BackgroundLoop.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundLoop.cs",
-              "ToolTip": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\BackgroundLoop.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\BackgroundLoop.cs",
               "RelativeToolTip": "Assets\\Scripts\\BackgroundLoop.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,24 +89,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Scrolling.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\Scrolling.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\Scrolling.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Scrolling.cs",
-              "ToolTip": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\Scrolling.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\Scrolling.cs",
               "RelativeToolTip": "Assets\\Scripts\\Scrolling.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T11:24:24.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T11:24:24.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\PC\\UNIT\\Uni-Run\\Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Portfollio\\Uni-Run\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAYwEoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
